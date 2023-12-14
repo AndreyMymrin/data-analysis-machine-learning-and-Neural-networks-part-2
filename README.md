@@ -1,1 +1,1 @@
-# data-analysis-machine-learning-and-Neural-networks-part-2
+#This repository contains all my code for my second semester of data science, machine learning, neural networks and mathematical statistics.
